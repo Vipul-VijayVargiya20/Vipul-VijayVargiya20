@@ -1,4 +1,4 @@
-https://github.com/Vipul-VijayVargiya20/Vipul-VijayVargiya20/blob/main/Add%20a%20subheading.png
+![logo](https://github.com/Vipul-VijayVargiya20/Vipul-VijayVargiya20/blob/main/Add%20a%20subheading.png)
 <h1 align="center">Hi 👋, I'm Vipul VijayVargiya</h1>
 <h3 align="center">A passionate Full stack developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fgifs%2FY4ak9Ki2GZCbJxAnJD&psig=AOvVaw2vnlA-B85wAqWZFhuGjPX5&ust=1738313629717000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNDs3IaJnYsDFQAAAAAdAAAAABAE">
